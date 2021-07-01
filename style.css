@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+#heading{
+  color:darkcyan;
+}
+.image1{
+width: 300px;
+    height: 300px;
+}
+.discription{
+    font-size: 30px;
+    color:darkblue;
+    background-color:whitesmoke;
+}
